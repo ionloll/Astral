@@ -1,0 +1,35 @@
+# Visual Studio / MSBuild temporary directories
+.vs/
+bin/
+obj/
+*.user
+*.aps
+*.pch
+*.suo
+*.opendb
+*.db
+*.ipch
+*.tlog
+*.log
+*.idb
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+
+# Binaries and archives
+*.exe
+*.dll
+*.sys
+*.obj
+*.lib
+*.exp
+*.7z
+*.zip
+*.rar
+
+# Runtime generated audit reports
+Astral_Report.html
+Astral_Report.txt
+Luckyware_Sentinel_Report.html
+Luckyware_Sentinel_Report.txt
