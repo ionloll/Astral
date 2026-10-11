@@ -8,7 +8,7 @@
 
 A high-performance, transparent incident response and forensic toolchain sanitizer written in native modern C++20. Engineered to detect, neutralize, and remediate the **Luckyware (Darkside)** compiler-infector trojan family, persistence vectors, and associated token exfiltration channels.
 
-Maintained and engineered by **ion** ([`@ionj`](https://github.com/ionj)).
+Maintained and engineered by **ion** ([`@ionj`](https://github.com/ionloll)).
 
 ---
 
