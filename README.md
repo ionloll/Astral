@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D6.svg)](https://microsoft.com)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B20-00599C.svg)](https://isocpp.org)
 [![Build](https://img.shields.io/badge/Build-MSBuild%20%2F%20Visual%20Studio-5C2D91.svg)](Astral.vcxproj)
-[![Author](https://img.shields.io/badge/Author-ion%20(%40ionj)-brightgreen.svg)](https://github.com/ionlol)
+[![Author](https://img.shields.io/badge/Author-ion%20(%40ionj)-brightgreen.svg)](https://github.com/ionloll)
 
 A high-performance, transparent incident response and forensic toolchain sanitizer written in native modern C++20. Engineered to detect, neutralize, and remediate the **Luckyware (Darkside)** compiler-infector trojan family, persistence vectors, and associated token exfiltration channels.
 
